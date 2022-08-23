@@ -19,8 +19,8 @@ In diesem Projekt erstelle ich einen number guessing game.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  Muss               |  Funktional    | Als ein Spieler möchte ich das mir gesagt wird, ob ich die richtige Zahl eraten habe oder nicht, damit ich weiss wenn ich gewonnen habe.|
-| ...  |                 |      |                                    |
+| 1    |  Muss               |  Funktional    | Als ein Spieler möchte ich das mir gesagt wird, ob ich die richtige Zahl eraten habe oder nicht, damit ich weiss ob ich gewonnen habe.|
+| 2 |     Muss            | Funktional     |  Als ein Programmierer muss ich den Spieler Hinweise geben, ob die richtige Zahl grösser oder kleiner ist als das eingegebe Zahl, damit der Spieler weiss, ob er nah an der richtigen Zahl dran bin.                                |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
