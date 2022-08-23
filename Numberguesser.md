@@ -13,7 +13,7 @@ Atputharasa
 
 ### 1.1 Ihr Projekt
 
-In diesem Projekt erstelle ich einen Numberguesser.
+In diesem Projekt erstelle ich einen number guessing game.
 
 ### 1.2 User Stories
 
