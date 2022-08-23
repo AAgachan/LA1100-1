@@ -49,8 +49,10 @@ Versuchen Sie es erneut!|
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 23.8.22     | Ich          | Realisierung der Projektdokumemtation           | 4 X 45'              |
+| 1.B  | 30.8.22      | Ich           | Realisierung wird angefangen             | 4 X 45'              |
+| 1.C | 6.9.22 | Ich | Realisierung wird fortgesetzt, beendet und getestet. | 4 X 45'|
+| 1.D | 13.9.22 | Ich | Projekt fertigetestet und abgeben | 4 X 45'|
 
 Total: 
 
@@ -60,7 +62,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 
 ## 4 Realisieren
 
