@@ -19,7 +19,7 @@ In diesem Projekt erstelle ich einen number guessing game.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 1    |  Muss               |  Funktional    | Als ein Spieler möchte ich das mir gesagt wird, ob ich die richtige Zahl eraten habe oder nicht, damit ich weiss wenn ich gewonnen habe.|
 | ...  |                 |      |                                    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -34,8 +34,9 @@ In diesem Projekt erstelle ich einen number guessing game.
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
+![number guessing game](https://user-images.githubusercontent.com/110893260/186102885-27e93a13-31f5-4919-817d-6314a1eaf1a9.png)
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+
 
 ## 2 Planen
 
