@@ -49,10 +49,13 @@ Versuchen Sie es erneut!|
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 23.8.22     | Ich          | Realisierung der Projektdokumemtation           | 4 X 45'              |
-| 1.B  | 30.8.22      | Ich           | Realisierung wird angefangen             | 4 X 45'              |
-| 1.C | 6.9.22 | Ich | Realisierung wird fortgesetzt, beendet und getestet. | 4 X 45'|
-| 1.D | 13.9.22 | Ich | Projekt fertigetestet und abgeben | 4 X 45'|
+| 1.A  | 30.8.22     | Ich          | Das Programm kann eine zufällige Zahl zwischen 1 und 100 generieren.           | 45'              |
+| 1.B  | 30.8.22      | Ich           | Das Programm gibt ein Mitteilung, ob die Zahl richtig odere falsch ist            |45'              |
+| 2.A | 30.8.22 | Ich | Das Programm soll es möglich machen, das der Spieler mehrmal schätzen kann. | 45'|
+| 3.A | 30.8.22 | Ich | Das Programm gibt eine Meldung, ob die eingegebene Zahl zu hoch oder zu tief ist.|45'|
+| 4.A | 30.8.22 | Ich | Das Programm kann nicht gestartet werden, wenn ein String verwendet wird.|
+| 5.A | 30.8.22 | Ich | Das Programm kann eine neue Runde starten, wenn der Spieler es möchte.|
+
 
 Total: 
 
