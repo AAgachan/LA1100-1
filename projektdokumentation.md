@@ -31,9 +31,8 @@ In diesem Projekt erstelle ich einen number guessing game.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  Applikation gestartet, zufällige Zahl ist bereits generiert, wartet auf Benutzereingabe            |    77     |   Leider ist es die falsche Antwort!
-Versuchen Sie es erneut!|
-| 2.1 |  Applikation gestartet, zufällige Zahl ist bereits generiert, wartet auf Benutzereingabe             |   77      | Das eingegebene Zahl ist grösser als das generierte Zahl?                |
+| 1.1  |  Applikation gestartet, zufällige Zahl ist bereits generiert, wartet auf Benutzereingabe            |    77     |   Leider ist es die falsche Antwort!|
+| 2.1 |  Applikation gestartet, zufällige Zahl ist bereits generiert, wartet auf Benutzereingabe             |   77      | to high|
 | 3.1 | Applikation gestartet, hat das Spiel gewonnen, Möchten Sie eine neue Runde starten? | ja | startet eine neue Runde |
 | 4.1 | Applikation gestartet, zufällige Zahl ist bereits generiert, der Spieler hat richtig geraten | 47 | Gratulation für die richtige Antwort! |
 | 5.1 | Applikation gestartet, zufällige Zahl ist bereits generiert, wartet auf Benutzereingabe | 1000 | Geben Sie Zahlen zwischen 1-100 ein! |
