@@ -5,9 +5,9 @@ Atputharasa
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 23.08.22| 0.0.1   | Ich schreibe meinen ersten Projektdokumentation |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 23.08.22| 0.0.1   | Ich schreibe meinen ersten Projektdokumentation|
+| 30.08.22      | 0.1.0   | Ich habe mein Programm umgesetzt und es läuft fehlerfrei|                                                            |
+|  06.09.22     | 1.0.0   | Ich habe das Projekt erfolgreich abgeschlossen.|                                                             |
 
 ## 1 Informieren
 
@@ -25,7 +25,7 @@ In diesem Projekt erstelle ich einen number guessing game.
 | 4 | Kann | Qualität | Als ein Pogrammierer kann ich den Spieler einen Glückwunsch ausrichten, damit er eine kleine Freude hat.|
 | 5 | Muss | Qualität | Als ein Programmierer möchte ich das nur Zahlen zwischen 1-100 auf dem Eingabefeld eingetragen wird, damit das Spiel funktioniert. |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
@@ -38,7 +38,6 @@ Versuchen Sie es erneut!|
 | 4.1 | Applikation gestartet, zufällige Zahl ist bereits generiert, der Spieler hat richtig geraten | 47 | Gratulation für die richtige Antwort! |
 | 5.1 | Applikation gestartet, zufällige Zahl ist bereits generiert, wartet auf Benutzereingabe | 1000 | Geben Sie Zahlen zwischen 1-100 ein! |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 ![number guessing game](https://user-images.githubusercontent.com/110893260/186102885-27e93a13-31f5-4919-817d-6314a1eaf1a9.png)
@@ -57,24 +56,23 @@ Versuchen Sie es erneut!|
 | 5.A | 30.8.22 | Ich | Das Programm kann eine neue Runde starten, wenn der Spieler es möchte.|45'|
 
 
-Total: 
+Total:`2`╳`1`╳`4`= 8 Arbeitspakete das sind 6h und Ich habe 4.5h gebraucht.
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
-
+Ich werde ein Programm schreiben, das eine Zufallszahl von 1 bis 100 erzeugt. Der Spieler muss dann eine Zahl von 1 bis 100 erraten, bis er die richtige Zahl findet. Jedes Mal, wenn der Spieler eine falsche Zahl errät, gibt das Programm eine Meldung aus, ob die erratene Zahl höher oder niedriger ist als die generierte Zahl. Sobald der Spieler die generierte Zahl gefunden hat, fragt das Programm, ob der Spieler eine weitere Runde spielen möchte.
 
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+| 1.A  | 30.8.22       | Ich           |  60'             | 30'                  |
+| 1.B  | 30.8.22       | Ich           |  60'             | 40'                 |
+| 2.A  | 30.8.22       | Ich           |  60'             | 20'                  |
+| 3.A  | 30.8.22       | Ich           |  60'             | 25'                  |
+| 4.A  | 30.8.22       | Ich           |  60'             | 5'                 |
+| 5.A  | 30.8.22       | Ich           |  60'             | 60'                 |
 
 ## 5 Kontrollieren
 
@@ -82,8 +80,11 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 6.9.22       |          | Ich       |
+| 2.1  | 6.9.22       |          | Ich       |
+| 3.1  | 6.9.22       |          | Ich       |
+| 4.1  | 6.9.22       |          | Ich       |
+| 5.1  | 6.9.22       |          | Ich       |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
