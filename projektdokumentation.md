@@ -53,8 +53,8 @@ Versuchen Sie es erneut!|
 | 1.B  | 30.8.22      | Ich           | Das Programm gibt ein Mitteilung, ob die Zahl richtig odere falsch ist            |45'              |
 | 2.A | 30.8.22 | Ich | Das Programm soll es möglich machen, das der Spieler mehrmal schätzen kann. | 45'|
 | 3.A | 30.8.22 | Ich | Das Programm gibt eine Meldung, ob die eingegebene Zahl zu hoch oder zu tief ist.|45'|
-| 4.A | 30.8.22 | Ich | Das Programm kann nicht gestartet werden, wenn ein String verwendet wird.|
-| 5.A | 30.8.22 | Ich | Das Programm kann eine neue Runde starten, wenn der Spieler es möchte.|
+| 4.A | 30.8.22 | Ich | Das Programm kann nicht gestartet werden, wenn ein String verwendet wird.|45'|
+| 5.A | 30.8.22 | Ich | Das Programm kann eine neue Runde starten, wenn der Spieler es möchte.|45'|
 
 
 Total: 
