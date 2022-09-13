@@ -5,9 +5,10 @@ Atputharasa
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 23.08.22| 0.0.1   | Ich schreibe meinen ersten Projektdokumentation|
-| 30.08.22      | 0.1.0   | Ich habe mein Programm umgesetzt und es läuft fehlerfrei|                                                            |
-|  06.09.22     | 1.0.0   | Ich habe das Projekt erfolgreich abgeschlossen.|                                                             |
+| 23.08.22| 0.0.1   | Ich schreibe meinen ersten Projektdokumentation.|
+| 30.08.22      | 0.1.0   | Ich habe mein Programm umgesetzt und es läuft fehlerfrei.|                                                            |
+|  06.09.22     | 1.0.0   | Ich habe das Projekt erfolgreich abgeschlossen.|
+| 13.09.22 | 1.0.1| Ich habe die Test protokolliert und getestet.|
 
 ## 1 Informieren
 
@@ -31,11 +32,11 @@ In diesem Projekt erstelle ich einen number guessing game.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  Applikation gestartet, zufällige Zahl ist bereits generiert, wartet auf Benutzereingabe            |    77     |   Leider ist es die falsche Antwort!|
+| 1.1  |  Applikation gestartet, zufällige Zahl ist bereits generiert, wartet auf Benutzereingabe            |    27     | to low!|
 | 2.1 |  Applikation gestartet, zufällige Zahl ist bereits generiert, wartet auf Benutzereingabe             |   77      | to high|
-| 3.1 | Applikation gestartet, hat das Spiel gewonnen, Möchten Sie eine neue Runde starten? | ja | startet eine neue Runde |
-| 4.1 | Applikation gestartet, zufällige Zahl ist bereits generiert, der Spieler hat richtig geraten | 47 | Gratulation für die richtige Antwort! |
-| 5.1 | Applikation gestartet, zufällige Zahl ist bereits generiert, wartet auf Benutzereingabe | 1000 | Geben Sie Zahlen zwischen 1-100 ein! |
+| 3.1 | Applikation gestartet, hat das Spiel gewonnen, Would you like to play again (Y/N): | y | startet eine neue Runde |
+| 4.1 | Applikation gestartet, zufällige Zahl ist bereits generiert, der Spieler hat richtig geraten | 47 | YOU HAVE ACCOMPLISHED YOUR MISSION!  |
+| 5.1 | Applikation gestartet, zufällige Zahl ist bereits generiert, wartet auf Benutzereingabe | vvvvf | Geben Sie Zahlen zwischen 1-100 ein! |
 
 
 ### 1.4 Diagramme
@@ -79,13 +80,13 @@ Ich werde ein Programm schreiben, das eine Zufallszahl von 1 bis 100 erzeugt. De
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 13.9.22       |          | Ich       |
-| 2.1  | 13.9.22       |          | Ich       |
-| 3.1  | 13.9.22       |          | Ich       |
-| 4.1  | 13.9.22       |          | Ich       |
-| 5.1  | 13.9.22       |          | Ich       |
+| 1.1  | 13.9.22       | Es funktioniert reibungslos.         | Ich       |
+| 2.1  | 13.9.22       | Es funktioniert hervorragend.         | Ich       |
+| 3.1  | 13.9.22       | Es funktioniert einwandfrei.         | Ich       |
+| 4.1  | 13.9.22       | Es funktioniert fehlerfrei.        | Ich       |
+| 5.1  | 13.9.22       | Es funktioniert exzellent.        | Ich       |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Es funktioniert alles, wie ich es erhofft hatte.
 
 ### 5.2 Exploratives Testen
 
@@ -94,7 +95,7 @@ Ich werde ein Programm schreiben, das eine Zufallszahl von 1 bis 100 erzeugt. De
 | I    |              |         |                   |                      |
 | ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
 
 ## 6 Auswerten
 
