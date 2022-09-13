@@ -99,4 +99,4 @@ Es funktioniert alles, wie ich es erhofft habe.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/AAgachan/LA1100-1/blob/main/README.md
