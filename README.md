@@ -7,14 +7,14 @@ Wir hatten den Auftrag bekommen einen Number Guessing Game zu machen.
 
 ## Was habe ich gelernt?
 
-Ich habe während der Projekt gelernt, wie man eine while Schleife bildet und verwendet. Ich habe es gebraucht um eine Runde zu starten.
-Oder um die Ergebnisse zu kontrollieren.
+Ich habe während der Projekt gelernt, wie man eine try und catch Schleife bildet und verwendet. Ich habe es gebraucht um eine Fehlermeldung rauszugeben, wenn man versucht etwas zu schreiben.
 
 
 ## Beschreibung
 
-'''charp
- try
+![ezgif-4-6a4ea42901](https://user-images.githubusercontent.com/110893260/189848907-f44b22e7-8e78-4211-a6b2-bf6755258d74.gif)
+```Csharp
+                      try
                         {
                             Console.WriteLine("Guess a number between " + min + " - " + max + " : ");
                             guess = Convert.ToInt32(Console.ReadLine());
@@ -25,8 +25,7 @@ Oder um die Ergebnisse zu kontrollieren.
                             Console.WriteLine("Geben Sie Zahlen zwischen 1-100 ein!");
                             check = false;
                         }
-                        '''
-![ezgif-4-2267ee0c9a](https://user-images.githubusercontent.com/110893260/189845856-64d50cdb-3a88-485a-b469-31e7ce5d6a15.gif)
+ ```                       
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
