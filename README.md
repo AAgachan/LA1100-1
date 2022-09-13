@@ -31,7 +31,7 @@ Ich habe während der Projekt gelernt, wie man eine try und catch Schleife bilde
                     check = false;
                     Console.WriteLine("Guess: " + guess);
  ```                       
-Hier 
+Try catch ist eine Funktion, die ein Code teil auszuführen versucht (try) und falls dies eine Fehlermeldung auswirft wird dieser aufgefangen und nicht an den code weitergeleitet. Somit kann man dann eine Fehlermeldung in der Konsole ausgeben lassen kann (catch).
 
 ## Verifikation
 Bei der ersten Medien sieht man das Endergebnis.
