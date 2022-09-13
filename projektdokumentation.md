@@ -79,11 +79,11 @@ Ich werde ein Programm schreiben, das eine Zufallszahl von 1 bis 100 erzeugt. De
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 6.9.22       |          | Ich       |
-| 2.1  | 6.9.22       |          | Ich       |
-| 3.1  | 6.9.22       |          | Ich       |
-| 4.1  | 6.9.22       |          | Ich       |
-| 5.1  | 6.9.22       |          | Ich       |
+| 1.1  | 13.9.22       |          | Ich       |
+| 2.1  | 13.9.22       |          | Ich       |
+| 3.1  | 13.9.22       |          | Ich       |
+| 4.1  | 13.9.22       |          | Ich       |
+| 5.1  | 13.9.22       |          | Ich       |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
