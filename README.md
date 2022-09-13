@@ -27,11 +27,11 @@ Ich habe während der Projekt gelernt, wie man eine try und catch Schleife bilde
                             Console.WriteLine("Geben Sie Zahlen zwischen 1-100 ein!");
                             check = false;
                         }
-                    }
+                     }
                     check = false;
                     Console.WriteLine("Guess: " + guess);
  ```                       
-Hier sehen Sie wie ich es erstellt habe
+Hier 
 
 ## Verifikation
 Bei der ersten Medien sieht man das Endergebnis.
@@ -40,6 +40,6 @@ Auf der dritten Medium sieht man die Erklärung dafür.
 
 # Reflektion zum Arbeitsprozess
 
-Der Arbeitsprozess war sehr mühsam, denn ich hatte von nichts eine Ahnung wie man was programmiert,
+Der Arbeitsprozess war sehr mühsam, denn ich hatte von nichts eine Ahnung wie man es programmiert. Ich habe sehr oft an mir selbst gezweifelt, ob ich überhaupt einen IMS Abschluss schaffe. Doch durch einge Youtube Videos sind die Selbstzweifel verschwunden und schlussendlich bin ich mit mir zufrieden gewesen, nach dem alles geklappt hat.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Hilfe holen, Youtube tutorial direkt anschauen
