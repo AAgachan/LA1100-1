@@ -86,7 +86,7 @@ Ich werde ein Programm schreiben, das eine Zufallszahl von 1 bis 100 erzeugt. De
 | 4.1  | 13.9.22       | Es funktioniert fehlerfrei.        | Ich       |
 | 5.1  | 13.9.22       | Es funktioniert exzellent.        | Ich       |
 
-Es funktioniert alles, wie ich es erhofft hatte.
+Es funktioniert alles, wie ich es erhofft habe.
 
 ### 5.2 Exploratives Testen
 
