@@ -34,8 +34,11 @@ Ich habe während der Projekt gelernt, wie man eine try und catch Schleife bilde
 Try catch ist eine Funktion, die ein Code teil auszuführen versucht (try) und falls dies eine Fehlermeldung auswirft wird dieser aufgefangen und nicht an den code weitergeleitet. Somit kann man dann eine Fehlermeldung in der Konsole ausgeben lassen kann (catch).
 
 ## Verifikation
+
 Bei der ersten Medien sieht man das Endergebnis.
+
 Auf der zweiten Medium sieht man wie ich es programmiert habe.
+
 Auf der dritten Medium sieht man die Erklärung dafür.
 
 # Reflektion zum Arbeitsprozess
